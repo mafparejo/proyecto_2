@@ -11,5 +11,10 @@ public class Colegio {
 		// TODO Auto-generated method stub
 		return "OTRO";
 	}
+	
+	public boolean getVerificar() {
+		// TODO Auto-generated method stub
+		return true;
+	}
 
 }

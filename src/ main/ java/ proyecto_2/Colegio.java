@@ -4,12 +4,12 @@ public class Colegio {
 
 	public int getNumero(int i) {
 		// TODO Auto-generated method stub
-		return 100;
+		return 300;
 	}
 
 	public String getNombre() {
 		// TODO Auto-generated method stub
-		return "Ortega y Gasset";
+		return "ALGUNO";
 	}
 
 }

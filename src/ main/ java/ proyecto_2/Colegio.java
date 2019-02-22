@@ -9,7 +9,7 @@ public class Colegio {
 
 	public String getNombre() {
 		// TODO Auto-generated method stub
-		return "ALGUNO";
+		return "OTRO";
 	}
 
 }
